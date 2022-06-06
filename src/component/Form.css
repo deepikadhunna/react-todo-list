@@ -1,0 +1,84 @@
+.deee{
+background-color:rgb(238, 204, 161);
+text-align: center;
+border: 2px solid black;
+padding: 50px;
+width: max-content;
+margin: auto;
+font-size: larger;
+border-radius:  19px;
+padding-top: 39px;
+}
+.todo-list{
+background-color:rgb(238, 206, 167) ;
+color: rgb(14, 15, 15);
+
+margin: auto;
+width: 200px;
+border-radius:  19px;
+line-height: 30px;
+
+
+}
+.input{
+    width: 300px;
+    line-height: 30px; 
+    text-align: center;
+    border: 1.5px solid black;
+    font-size: large;
+    background-color: rgb(239, 218, 194);
+    border-radius: 7px;
+    padding-bottom: 5px;
+   
+}
+
+.buttondel{
+    float: right;
+    margin-top: 4px;
+    
+    background-color: rgb(164, 110, 98);
+    border-radius:  19px;
+  
+   
+}
+
+.buttonedit{
+    float: right;
+    margin-top: 4px;
+
+    background-color: rgb(218, 189, 102);
+    border-radius:  19px;
+    margin-right: 10px;
+
+}
+
+.updatebutton{
+    float: right;
+    margin-top: 4px;
+
+    background-color: rgb(232, 177, 163);
+    border-radius:  8px;
+    margin-right: 3px;
+}
+.cancelbutton{
+    float: right;
+    margin-top: 4px;
+
+    background-color: rgb(64, 164, 112);
+    border-radius:  8px;
+
+}
+.editinput{
+    width: 200px;
+    line-height: 20px; 
+    text-align: center;
+    border: 1.5px solid black;
+    font-size: large;
+    background-color: rgb(239, 218, 194);
+    border-radius: 7px;
+    padding-bottom: 5px;
+   
+}
+.editfrom{
+
+}
